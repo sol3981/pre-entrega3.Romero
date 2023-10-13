@@ -1,0 +1,205 @@
+section{
+    width: 100%;
+    background: #2d4b5a;
+    margin-top: 0;
+
+    .contenedores{
+        width: 100%;
+        height: 30%;
+        margin-top: 0%;
+        background-color:#00374843;
+        padding: 2%;
+        display: flex;
+        justify-content: center;
+        border-top: #ff6624 solid;
+    }
+
+    .subconteiner{
+        width: 80%;
+        height: 70vh;
+    }
+
+    .titulosection{
+        color: white;
+        display: flex;
+        justify-content: center;
+    }
+
+    .articulo{
+        background-color: #0c5c7495;
+        width: auto;
+        height: auto;
+        border-radius: 10%;
+    }
+
+    .artinicio{
+        color: white;
+    }
+
+    #img1{
+        width: 100%;
+        height: 50%;
+        background: url(../assets/img/f6d575e94124541d274dc17b3e7f8186.jpg);
+        background-size: cover;
+        background-position: center center;
+    }
+
+    #img2{
+        width: 100%;
+        height: 50%;
+        background: url(../assets/img/484dec229b281d12d8829ea86bafd335.jpg);
+        background-size: cover;
+        background-position: center center;
+
+    }
+
+    #img3{
+        width: 100%;
+        height: 50%;
+        background: url(../assets/img/256a5ba25d5caf06d64e1a7138cb9bd5.jpg);
+        background-size: cover;
+        background-position: center center;
+    }
+   
+    #img4{
+        width: 100%;
+        height: 50%;
+        background: url(../assets/img/01365eff42357dfec7e88d7938f1faae.jpg);
+        background-size: cover;
+        background-position: center center;
+    }
+
+    #img5{
+        width: 100%;
+        height: 50%;
+        background: url(../assets/img/b9dd5920a870fd6aeda4999dfab71d6e.jpg);
+        background-size: cover;
+        background-position: center center;
+    }
+
+    .nav{
+        text-decoration: none;
+        color: white;
+        font-size: medium;
+    }
+}
+
+#imgenc1{
+    width: 100%;
+    height: 50%;
+    background: url(../assets/img/img1enc.jpg);
+    background-size: cover;
+    background-position: center center;
+    border-radius: 10%;
+}
+
+#imgenc2{
+    width: 100%;
+    height: 50%;
+    background: url(../assets/img/img2enc.jpg);
+    background-size: cover;
+    background-position: center center;
+    border-radius: 10%;
+}
+
+#imgenc3{
+    width: 100%;
+    height: 50%;
+    background: url(../assets/img/img3enc.jpg);
+    background-size: cover;
+    background-position: center center;
+    border-radius: 10%;
+}
+
+
+#imgagua1{
+    width: 100%;
+    height: 50%;
+    background: url(../assets/img/clientes.jpg);
+    background-size: cover;
+    background-position: center center;
+    margin-top: 20px;
+    border-radius: 20%;
+}
+
+#imgagua2{
+    width: 100%;
+    height: 50%;
+    background: url(../assets/img/planilla.jpg);
+    background-size: cover;
+    background-position: center center;
+    margin-top: 20px;
+    border-radius: 20%;
+}
+
+#imgagua3{
+    width: 100%;
+    height: 50%;
+    background: url(../assets/img/repartidores.jpg);
+    background-size: cover;
+    background-position: center center;
+    margin-top: 20px;
+    border-radius: 20%;
+
+}
+
+#imgcarg1{
+    width: 100%;
+    height: 50%;
+    background: url(../assets/img/chofer.jpg);
+    background-size: cover;
+    background-position: center center;
+    margin-top: 20px;
+    border-radius: 20%;
+
+}
+
+#imgcarg2{
+    width: 100%;
+    height: 50%;
+    background: url(../assets/img/flete.jpg);
+    background-size: cover;
+    background-position: center center;
+    margin-top: 20px;
+    border-radius: 20%;
+}
+
+#imgcarg3{
+    width: 100%;
+    height: 50%;
+    background: url(../assets/img/otrosmodulos.jpg);
+    background-size: cover;
+    background-position: center center;
+    margin-top: 20px;
+    border-radius: 20%;
+}
+
+#imgpas1{
+    width: 100%;
+    height: 50%;
+    background: url(../assets/img/reservapasajes.jpg);
+    background-size: cover;
+    background-position: center center;
+    margin-top: 20px;
+    border-radius: 20%;
+}
+
+#imgpas2{
+    width: 100%;
+    height: 50%;
+    background: url(../assets/img/pasajeros.jpg);
+    background-size: cover;
+    background-position: center center;
+    margin-top: 20px;
+    border-radius: 20%;
+}
+
+#imgpas3{
+    width: 100%;
+    height: 50%;
+    background: url(../assets/img/libropasajeros.png);
+    background-size: cover;
+    background-position: center center;
+    margin-top: 20px;
+    border-radius: 20%;
+}
